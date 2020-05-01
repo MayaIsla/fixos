@@ -32,6 +32,6 @@ powercfg /batteryreport
         goto :eof 
     ) 
 
-
+TAKEOWN /F <FILE LOCATION> ::put whatever file is corrupted or may need updates...
 
 
